@@ -25,6 +25,14 @@ CLIP is a neural network trained on a 400 million image-text pairs dataset to le
 Object candidate regions are first extracted from the input images using a Faster R-CNN model's pretrained Region Proposal Network. This rapidly identifies potential regions of interest. CLIP then encodes these proposed regions and textual object queries into high-dimensional embeddings suitable for comparison. Multiple phrasings of each query are averaged to obtain a robust representation. Finally, cosine similarity between regional embeddings and averaged query embeddings identifies the most semantically aligned regions for each specified object class.
 
 ## Results
+Below is the original image:
+
+<h3 align="center">CLIP</h3>
+<p align="center">
+  <img src="images/clip_result.png" width="600">
+</p>
+
+Below are the boxes that faster rcnn extracted from the original image:
 <h3 align="center">CLIP</h3>
 <p align="center">
   <img src="images/clip_result.png" width="600">

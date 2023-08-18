@@ -39,6 +39,7 @@ The boxes extracted from the original image by Faster R-CNN are presented below
 </p>
 
 The following are the objects detected by CLIP
+
 <h3 align="center">Objects Detected By CLIP</h3>
 <p align="center">
   <img src="images/clip_result.png" width="450">

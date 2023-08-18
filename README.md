@@ -27,13 +27,19 @@ Object candidate regions are first extracted from the input images using a Faste
 ## Results
 Below is the original image:
 
-<h3 align="center">CLIP</h3>
+<h3 align="center">Image</h3>
 <p align="center">
-  <img src="images/clip_result.png" width="600">
+  <img src="images/original_image.png" width="450">
 </p>
 
-Below are the boxes that faster rcnn extracted from the original image:
-<h3 align="center">CLIP</h3>
+The boxes extracted from the original image by Faster R-CNN are presented below
+<h3 align="center">Candidate Regions</h3>
 <p align="center">
-  <img src="images/clip_result.png" width="600">
+  <img src="images/regions.png" width="450">
+</p>
+
+The following are the objects detected by CLIP
+<h3 align="center">Objects Detected By CLIP</h3>
+<p align="center">
+  <img src="images/clip_result.png" width="450">
 </p>

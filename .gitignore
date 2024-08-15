@@ -1,0 +1,25 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# Jupyter Notebook temporary files
+~.ipynb
+*.nbconvert.ipynb
+
+# Jupyter Notebook output files
+*.html
+*.pdf
+*.py
+
+# Jupyter Notebook checkpoints
+/.ipynb_checkpoints
+
+# Jupyter Notebook kernel metadata
+/.local/share/jupyter/runtime
+
+# Jupyter Notebook environment files
+/.venv
+/.env
+
+# Jupyter Notebook log files
+*.log

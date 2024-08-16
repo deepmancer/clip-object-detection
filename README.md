@@ -1,5 +1,14 @@
 # 🔍 CLIP Object Detection
 
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white" alt="OpenAI">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter Notebook">
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter Notebook">
+</p>
+<p align="center">
+
 Unleash the power of CLIP, a groundbreaking vision-language model by OpenAI, to perform zero-shot object detection! CLIP can match images with text descriptions by understanding both visual and textual concepts, making it a versatile tool for a wide range of computer vision applications without needing traditional training datasets.
 
 ## 📋 Requirements

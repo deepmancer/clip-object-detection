@@ -1,4 +1,4 @@
-# 🔍 CLIP Object Detection
+# 🚀 CLIP Zero-shot Object Detection
 
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
@@ -8,7 +8,9 @@
 </p>
 <p align="center">
 
-Unleash the power of CLIP, a groundbreaking vision-language model by OpenAI, to perform zero-shot object detection! CLIP can match images with text descriptions by understanding both visual and textual concepts, making it a versatile tool for a wide range of computer vision applications without needing traditional training datasets.
+Welcome! This project enables zero-shot object detection using OpenAI's CLIP model, complemented by the Fast R-CNN model for generating region proposals.
+
+---
 
 ## 📋 Requirements
 

@@ -28,7 +28,7 @@ CLIP (Contrastive Language–Image Pre-training) is a neural network trained on 
 
 <h3 align="center">CLIP in Action</h3>
 <p align="center">
-  <img src="images/CLIP.png" width="600" alt="CLIP Model">
+  <img src="assets/CLIP.png" width="600" alt="CLIP Model">
 </p>
 
 ## 🔍 Methodology
@@ -44,7 +44,7 @@ CLIP (Contrastive Language–Image Pre-training) is a neural network trained on 
 
 <h3 align="center">Original Image</h3>
 <p align="center">
-  <img src="images/original_image.png" width="450" alt="Original Image">
+  <img src="https://raw.githubusercontent.com/deepmancer/clip-object-detection/main/assets/original_image.png" width="450" alt="Original Image">
 </p>
 
 **Candidate Regions:**
@@ -53,7 +53,7 @@ These are the regions identified by Faster R-CNN from the original image.
 
 <h3 align="center">Candidate Regions</h3>
 <p align="center">
-  <img src="images/regions.png" width="450" alt="Candidate Regions">
+  <img src="https://raw.githubusercontent.com/deepmancer/clip-object-detection/main/assets/regions.png" width="450" alt="Candidate Regions">
 </p>
 
 **Detected Objects:**
@@ -62,7 +62,7 @@ Here’s what CLIP detected in the image.
 
 <h3 align="center">Objects Detected By CLIP</h3>
 <p align="center">
-  <img src="images/clip_result.png" width="450" alt="Detected Objects">
+  <img src="https://raw.githubusercontent.com/deepmancer/clip-object-detection/main/assets/clip_result.png" width="450" alt="Detected Objects">
 </p>
 
 Explore the potential of CLIP for zero-shot object detection and see how it performs without needing extensive training data. Happy detecting! 🕵️‍♂️

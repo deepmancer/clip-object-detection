@@ -1,4 +1,4 @@
-# 🚀 CLIP Zero-Shot Object Detection 🖼️
+# 🚀 CLIP Zero-Shot Object Detection
 
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">

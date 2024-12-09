@@ -13,6 +13,13 @@ Welcome to the **CLIP Zero-Shot Object Detection** project! This repository demo
 
 ---
 
+| **Source Code** | **Website** |
+|:-----------------|:------------|
+| <a href="https://github.com/deepmancer/clip-object-detection" target="_blank">github.com/deepmancer/clip-object-detection</a> | <a href="https://deepmancer.github.io/clip-object-detection/" target="_blank">deepmancer.github.io/clip-object-detection</a> |
+
+
+---
+
 ## 🎯 Quick Start
 
 Set up and run the pipeline in three simple steps:
